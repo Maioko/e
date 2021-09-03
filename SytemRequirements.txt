@@ -1,0 +1,4 @@
+Minimum
+GPU: Intel UHD 620 
+CPU: any
+RAM: 6969T
